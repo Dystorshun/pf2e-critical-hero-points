@@ -1,0 +1,11 @@
+{
+  "name": "pf2e-critical-hero-points",
+  "title": "PF2e Critical Hero Points",
+  "version": "1.0.0",
+  "description": "Awards a hero point to players on a critical hit.",
+  "author": "Dystorshun",
+  "minimumCoreVersion": "12", // Adjust if needed, check Foundry's version
+  "compatibleCoreVersion": "12", // Adjust to match your tested versions
+  "manifest": "module.json",
+  "dependencies":{
+    "pf2e": "12.328" // Replace with the actual PF2e version you're targeting
